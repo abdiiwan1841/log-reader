@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "Log Reader v0.1.0 release with automated security auditing, remote SSH multi-selection, and performance updates.",
+  "pub_date": "2026-08-14T02:24:02.496Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/abdiiwan1841/log-reader/releases/download/v0.1.0/log-reader_0.1.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/abdiiwan1841/log-reader/releases/download/v0.1.0/log-reader_0.1.0_amd64.AppImage"
+    }
+  }
+}
